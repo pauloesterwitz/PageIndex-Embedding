@@ -1,0 +1,7 @@
+store/
+cache/
+*.log
+.venv/
+__pycache__/
+*.env
+.hf/
